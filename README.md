@@ -1,12 +1,11 @@
 # MiniSora Community
 
 <!-- PROJECT SHIELDS -->
-
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![Stargazers][stars-shield]][stars-url]
+[![Contributors](https://img.shields.io/github/contributors/mini-sora/minisora.svg?style=flat-square)](https://github.com/mini-sora/minisora/graphs/contributors)
+[![Forks](https://img.shields.io/github/forks/mini-sora/minisora.svg?style=flat-square)](https://github.com/mini-sora/minisora/network/members)
+[![Issues](https://img.shields.io/github/issues/mini-sora/minisora.svg?style=flat-square)](https://github.com/mini-sora/minisora/issues)
+[![License](https://img.shields.io/github/license/mini-sora/minisora.svg?style=flat-square)](https://github.com/mini-sora/minisora/blob/main/LICENSE)
+[![Stargazers](https://img.shields.io/github/stars/mini-sora/minisora.svg?style=flat-square)](https://github.com/mini-sora/minisora/stargazers)
 <br />
 
 <div align="center">
@@ -655,15 +654,3 @@ For more details, please refer to the [Contribution Guidelines](./.github/CONTRI
 <a href="https://github.com/mini-sora/minisora/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=mini-sora/minisora" />
 </a>
-
-[your-project-path]: mini-sora/minisora
-[contributors-shield]: https://img.shields.io/github/contributors/mini-sora/minisora.svg?style=flat-square
-[contributors-url]: https://github.com/mini-sora/minisora/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/mini-sora/minisora.svg?style=flat-square
-[forks-url]: https://github.com/mini-sora/minisora/network/members
-[stars-shield]: https://img.shields.io/github/stars/mini-sora/minisora.svg?style=flat-square
-[stars-url]: https://github.com/mini-sora/minisora/stargazers
-[issues-shield]: https://img.shields.io/github/issues/mini-sora/minisora.svg?style=flat-square
-[issues-url]: https://img.shields.io/github/issues/mini-sora/minisora.svg
-[license-shield]: https://img.shields.io/github/license/mini-sora/minisora.svg?style=flat-square
-[license-url]: https://github.com/mini-sora/minisora/blob/main/LICENSE
