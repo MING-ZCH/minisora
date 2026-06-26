@@ -1,11 +1,11 @@
 # MiniSora Community
 
 <!-- PROJECT SHIELDS -->
-[![Contributors](https://img.shields.io/github/contributors/mini-sora/minisora.svg?style=flat-square)](https://github.com/mini-sora/minisora/graphs/contributors)
-[![Forks](https://img.shields.io/github/forks/mini-sora/minisora.svg?style=flat-square)](https://github.com/mini-sora/minisora/network/members)
-[![Issues](https://img.shields.io/github/issues/mini-sora/minisora.svg?style=flat-square)](https://github.com/mini-sora/minisora/issues)
-[![License](https://img.shields.io/github/license/mini-sora/minisora.svg?style=flat-square)](https://github.com/mini-sora/minisora/blob/main/LICENSE)
-[![Stargazers](https://img.shields.io/github/stars/mini-sora/minisora.svg?style=flat-square)](https://github.com/mini-sora/minisora/stargazers)
+[![Contributors](https://img.shields.io/badge/contributors-view-blue?style=flat-square)](https://github.com/mini-sora/minisora/graphs/contributors)
+[![Forks](https://img.shields.io/badge/forks-147-blue?style=flat-square)](https://github.com/mini-sora/minisora/network/members)
+[![Issues](https://img.shields.io/badge/issues-4-blue?style=flat-square)](https://github.com/mini-sora/minisora/issues)
+[![License](https://img.shields.io/badge/license-Apache--2.0-blue?style=flat-square)](https://github.com/mini-sora/minisora/blob/main/LICENSE)
+[![Stargazers](https://img.shields.io/badge/stars-1.4k-blue?style=flat-square)](https://github.com/mini-sora/minisora/stargazers)
 <br />
 
 <div align="center">
